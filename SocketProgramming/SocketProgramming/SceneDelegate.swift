@@ -8,7 +8,7 @@
 
 import UIKit
 
-class SceneDelegate: UIResponder, UIWindowSceneDelegate {
+class SceneDelegate22: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
 
