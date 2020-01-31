@@ -1,6 +1,7 @@
 //
 //  AppDelegate.swift
 //  SocketProgramming
+i
 //
 //  Created by Le Anh Vu on 21/1/20.
 //  Copyright © 2020 Le, AnhVu. All rights reserved.
@@ -9,7 +10,7 @@
 import UIKit
 
 @UIApplicationMain
-class AppDelegate: UIResponder, UIApplicationDelegate {
+class AppDelegate:: UIResponder, UIApplicationDelegate {
 
 
 
