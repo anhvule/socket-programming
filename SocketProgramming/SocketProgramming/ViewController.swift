@@ -1,4 +1,5 @@
 //
+i
 //  ViewController.swift
 //  SocketProgramming
 //
@@ -8,7 +9,7 @@
 
 import UIKit
 
-class ViewController12A: UIViewController {
+class ViewController12AB: UIViewController {
  
     override func viewDidLoad() {
         super.viewDidLoad()
