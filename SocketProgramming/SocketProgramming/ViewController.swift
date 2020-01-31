@@ -9,7 +9,7 @@ i
 
 import UIKit
 
-class ViewController12AB: UIViewController {
+class ViewControllerA: UIViewController {
  
     override func viewDidLoad() {
         super.viewDidLoad()
